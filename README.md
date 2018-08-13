@@ -1,2 +1,2 @@
 # crawEyeCatCities
-抓取猫眼电影地理定位城市id和列表
+- 获取基于[Tarov0.0.69的微信小程序猫眼电影获取地址](https://github.com/Harhao/miniProgram/)
